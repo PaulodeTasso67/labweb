@@ -8,7 +8,6 @@
     display: flex;
     flex-direction: column-reverse;
     border-radius: 20px;
-    background-color: #00285F;
 }
 
 .home-content-container {
@@ -22,13 +21,12 @@
     width: 260px;
 font-size: 1em;
 margin-bottom: 15px;
-color: #FFFF;
 }
 
 .home-content-container p{
     width: 260px;
 font-size: 0.6em;
-color: #FFFF;
+color: #9E9E9E;
 margin-bottom: 30px;
 }
 
